@@ -2,6 +2,7 @@
 ;Modifies Object
 ;Daniel Gherghel 05/04/23
 ;updated by Daniel G. on 08/23/24 / Closet naming
+; this code replaced a previous 10000 lines code developed by someone else
 
 For Each Cab Assembly
 
