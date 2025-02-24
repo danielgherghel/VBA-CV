@@ -3,6 +3,7 @@
 ;Daniel Gherghel 05/04/23
 ;updated by Daniel G. on 08/23/24 / Closet naming
 ; this code replaced a previous 10000 lines code developed by someone else
+;  also simplifies how the user can alter the naming without compromising on the real cabinet sizes those being shown automatically based on the current size
 
 For Each Cab Assembly
 
